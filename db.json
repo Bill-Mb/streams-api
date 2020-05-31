@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "typicode"
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 3
+    }
+  ]
+}
